@@ -6,7 +6,7 @@
 
 const N8N_WEBHOOK_URL =
 
-  "https://gradhun.app.n8n.cloud/webhook/outlook-email-summarizer";
+  "https://gradhun.app.n8n.cloud/webhook/summarizer";
 
 
 
@@ -155,4 +155,5 @@ async function callN8N(subject, body) {
   }
 
 }
+
 
